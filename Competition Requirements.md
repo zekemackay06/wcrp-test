@@ -23,7 +23,7 @@ An official WCA Competition must:
    2. The WCA Delegate for a competition is responsible for:
       1. Submitting the Delegate Report to the WCA Regulations Committee and the WCA Quality Assurance Committee regarding adherence to WCA Regulations and quality standards during the competition, the overall course of the competition, and any incidents that happened. The report must be submitted within one week of the end of the competition.
       2. Submitting the competition results to the WCA Results Team within one week of the end of the competition.
-         1. Results should be double-checked and free of errors before submission.
+         1. Results must be double-checked and free of errors before submission.
          2. All scramble sequences used during a competition must be sent with the results of the competition.
             1. All scramble sequences must be labeled with the events, rounds, and groups for which they were used. If there are multiple groups in a round, it is not necessary to identify which competitor was in which group.
          3. Physical records (e.g. score sheets, written solutions from 3x3x3 Fewest Moves) must be retained for a minimum of 90 days. Digital records (e.g. scramble sequences, results) must be retained for a minimum of 7 years.
