@@ -203,7 +203,7 @@ The WCA Delegate must submit the following information when requesting approval 
         1.  The competition delegates should carefully consider the fairness and need when reviewing such schedules.
       2. Other events may only be held unofficially.
    3. The main event of the competition should be publicly mentioned on the competition website.
-      1. The main event should be recognizable in the competition schedule and havean appropriate proportion of rounds and attempts.
+      1. The main event should be recognizable in the competition schedule and have an appropriate proportion of rounds and attempts.
       2. Only WCA sanctioned events may be considered the main event of the competition.
       3. There may be no main event of the competition.
    4. An additional event may be added upon the WCA Delegate's request at the discretion of the WCAT. The competition must meet the following requirements for an additional event to be added:
