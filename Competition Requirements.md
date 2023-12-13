@@ -1,17 +1,13 @@
 # WCA Competition Requirements Policy
 
-
 ### Version 5.0 {.version}
-
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
 
-
 ## Policy
 ### WCA Competition Requirements
 An official WCA Competition must:
-
 
 1. Be announced at least 28 days (four weeks) before 00:00 UTC of the start date of the competition on the WCA website.
    1. WCA Delegates should allow a suitable time frame for competitions to be announced after they are confirmed to the WCA Competition Announcement Team.
@@ -36,8 +32,6 @@ An official WCA Competition must:
             1. Physical records (e.g. score sheets, written solutions from 3x3x3 Fewest Moves) must be retained for a minimum of 90 days.
                  1. Scanned copies may be kept instead of the physical records.
             2. Digital records (e.g. scramble sequences, results) must be retained for a minimum of 7 years.
-
-
       3. Sending corrections of competition results to the WCA Results Team.
       4. Advising other competition officials when necessary.
       5. Deciding whether to disqualify competitors during the competition per ([WCA Regulation 2k)](wca{regulations/#2k})).
@@ -60,15 +54,10 @@ An official WCA Competition must:
       3. to recite their registration data from memory, in case that no ID document (or copy) is available.
    3. The data validation process may be skipped for returning competitors  registered with WCA ID.
 
-
-
-
 If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Disciplinary Committee, WCA Ethics Committee, or the WCA Board.
-
 
 ### Announcement Criteria
 The WCA Delegate must submit the following information when requesting approval of a competition:
-
 
 1. Competition name, short name, and ID
    1. The name must not be too general. It should be related in some way to the competition itself, such as:
@@ -253,10 +242,8 @@ The WCA Delegate must submit the following information when requesting approval 
       1. The organization team may limit the number of events for which competitors can register.
     3. Approving optional requirements is at the discretion of the WCA Competition Announcement Team.
 
-
 ### Amendments to WCA Competitions {.page-break-before}
 The following information can be changed by the competition WCA Delegate without approval, within the confines of the relevant WCA Regulations. Changes to any of the below points must be clearly communicated to all registered competitors:
-
 
 1. Number of rounds ([WCA Regulation 9m)](wca{regulations/#9m}))
 2. Round formats ([WCA Regulation 9b)](wca{regulations/#9b}))
@@ -265,11 +252,8 @@ The following information can be changed by the competition WCA Delegate without
 5. Advancement conditions ([WCA Regulation 9p)](wca{regulations/#9p}))
 6. Scheduled time of a round
 
-
 Tabs on the competition website may be modified without the approval of the WCAT. This can be done as long as there is no contradicting information added. These tab edits may be modified without informing all registered competitors at the discretion of the Delegate.
 
-
 The main event may be rejected and set to "no main event" upon submitting results if it does not meet the suitable guidelines outlined.
-
 
 All other information submitted as part of the competition approval process may only be changed at the discretion of the WCA Competition Announcement Team or the WCA Board.
