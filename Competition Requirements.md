@@ -230,7 +230,7 @@ The WCA Delegate must submit the following information when requesting approval 
       3. Competitions which are not National, Continental, or World championships should avoid names that are similar to championship names. 
          1. Competitions with names similar to championship names that are not National, Continental, or World championships should recognize the fastest competitors from the competition’s region.
    3. Date(s)
-      1. National Championships should not be held on the same date(s) as Continental championships of the country’s continent..
+      1. National Championships should not be held on the same date(s) as Continental championships of the country’s continent.
       2. National Championships should not be held on the same date(s) as World championships.
       3. Continental Championships must not be held on the same date(s) as World Championships.
    4. Championships should have all the officially recognized WCA events.
