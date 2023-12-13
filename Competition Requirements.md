@@ -200,13 +200,13 @@ The WCA Delegate must submit the following information when requesting approval 
       3. A round may have a cutoff. A round with a cutoff is a cutoff round, with the formats as outlined in [WCA Regulation 9b)](wca{regulations/#9b}).
    2. Only results from events that appear on the competition website in the Events tab and Schedule will be recognized.
       1. Groups held for smaller subsections of competitors (e.g., competition staff), at a different time than the rest of the round, must be highlighted in the schedule.
-        1.  The competition delegates should carefully consider the fairness and need when reviewing such schedules.
+         1.  The competition delegates should carefully consider the fairness and need when reviewing such schedules.
       2. Other events may only be held unofficially.
-   4. The main event of the competition should be publicly mentioned on the competition website.
+   3. The main event of the competition should be publicly mentioned on the competition website.
       1. The main event should be recognizable in the competition schedule and have an appropriate proportion of rounds and attempts.
       2. Only WCA sanctioned events may be considered the main event of the competition.
       3. There may be no main event of the competition.
-   5. An additional event may be added upon the WCA Delegate's request at the discretion of the WCAT. The competition must meet the following requirements for an additional event to be added:
+   4. An additional event may be added upon the WCA Delegate's request at the discretion of the WCAT. The competition must meet the following requirements for an additional event to be added:
       1. The competition is at least 5 days away.
       2. A registration period for the competition must have a minimum of 24 hours before it closes.
       3. The competitor limit must not be completely filled.
