@@ -70,7 +70,7 @@ The WCA Delegate must submit the following information when requesting approval 
       7. A sponsor of the competition
    2. Capitalization of the competition name must be appropriate. The first letter of each word in the competition’s name must be capitalized and subsequent letters within words should be lowercase, except articles and prepositions, which should be always lowercase. Acronyms should be capitalized.
       1. Exception: The first letter of a word may be left lowercase if it is formatted as such in the name of a company or venue.
-     2. Each word in the name must be separated by a space.
+      2. Each word in the name must be separated by a space.
    3. The name must end with the year of the last day of the competition.
    4. The competition name must be in Roman-readable letters and may only contain characters from A-Z, a-z, 0-9, or similar characters.
       1. Only the following special characters are permitted: Apostrophe (‘), period (.), colon (:), hyphen (-), and ampersand (&).
