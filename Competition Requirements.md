@@ -82,8 +82,8 @@ The WCA Delegate must submit the following information when requesting approval 
            1. A city name is not a sufficient locational identifier if there is another city with the same name and a population greater than 10 times the population of the competition’s city.
         2. The name of the venue,
         3. A commonly used nickname/demonym of the region or its residents,
-        4. Local language specific the region,
-        5. If a locational identifier has been used at least once in each of the previous two calendar years (exclusion of 2020-2022 is permitted), it may also be permitted as a locational identifier.
+        4. Local language specific to the region,
+        5. If a portion of a competition name has been used at least once in each of the previous two calendar years (exclusion of 2020-2022 is permitted), it may also be permitted as a locational identifier.
         6. Other locational identifiers may be accepted at the discretion of the WCAT.
    8. Competitions may not be named after a living cuber, member of the organization team, or any competition staff, including pseudonyms or online tags of such people.
    9. Names must not contain possibly offensive parts or memes.
