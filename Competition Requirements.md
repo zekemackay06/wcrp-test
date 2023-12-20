@@ -193,6 +193,7 @@ The WCA Delegate must submit the following information when requesting approval 
       4. Competitors who cancel their registration while on the waiting list should be given a full refund of their registration fee.
       5. Competitors who are still on the waiting list at the deadline for accepting competitors from the waiting list should be given a full refund of their registration fee.
    7. Different locations for multi-location competitions may have different registration requirements (e.g. competitor limit).
+   8. The organization team must consider whether a registration fee is affordable to those living in the region.
 7. Events
    1. Each event must have a planned number of rounds.
       1. Each round of each event must have a planned format and time limit.
